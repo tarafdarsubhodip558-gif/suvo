@@ -41,7 +41,7 @@ const photo = document.querySelector(".tilt");
 
 document.addEventListener("mousemove", (event) => {
 
-    // Mobile-এ 3D effect বন্ধ
+
     if (window.innerWidth < 800 || !photo) {
 
         return;

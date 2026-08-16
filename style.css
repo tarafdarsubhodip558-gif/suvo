@@ -400,15 +400,15 @@ h1 span {
 
     position: absolute;
 
-    right: -45px;
+    right: 29px;
 
-    bottom: 38px;
+    bottom: 09px;
 
     background: rgba(9,19,33,.88);
 
     border: 1px solid rgba(255,255,255,.13);
 
-    padding: 14px 18px;
+    padding: 15px 20px;
 
     border-radius: 17px;
 
@@ -426,12 +426,15 @@ h1 span {
     color: #2cecff;
 
     font-size: 18px;
+    text-align: center;
 }
 
 
 .floating-card small {
+    display: block;
 
     color: #a8b5c9;
+    text-align: center;
 }
 
 
